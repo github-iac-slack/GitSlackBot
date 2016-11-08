@@ -1,2 +1,2 @@
 # GitSlackBot
-ANdy.iyer
+Slack bot project
